@@ -10,12 +10,6 @@ Slack Team: https://openosint.slack.com
 4. If you found a dead link please use 404 in commit message, see example.</br>
 (git commit -m '404')
 
-## This collection is also on inteltechniques.com (Slightly behind this repo)
-[inteltechniques.com/ivmachiavelli](http://inteltechniques.com/ivmachiavelli)
-
-### Community
-[Open OSINT Team](https://openosint.slack.com/)<br>
-[Intel Techniques](https://inteltechniques.com)<br>
 ### Real Estate
 [HomeMetry](https://homemetry.com/)<br>
 [Arivify](https://www.arivify.com)<br>
