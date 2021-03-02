@@ -27,7 +27,6 @@ Slack Team: https://openosint.slack.com
 [Lumen Database](https://lumendatabase.org/)<br>
 ### Leaks
 [Crytome](https://cryptome.org/)<br>
-[Wiki Leaks](https://wikileaks.org/)<br>
 [Database Today](https://www.databases.today)<br>
 [DataBreaches](https://www.databreaches.net/)<br>
 ### Geospatial Research and Mapping Tools
