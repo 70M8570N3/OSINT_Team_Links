@@ -819,7 +819,6 @@ Slack Team: https://openosint.slack.com
 [Panjiva (Cargo)](https://panjiva.com/search)<br>
 [Import Genius (Cargo)](http://importgenius.com/)<br>
 ### Multi-Tools
-[Intel Techniques Tools](https://inteltechniques.com/menu.html)<br>
 [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase)<br>
 [Black Book Online](http://www.blackbookonline.info)<br>
 [Melissa Data](http://www.melissadata.com/lookups/index.htm)<br>
