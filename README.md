@@ -23,7 +23,7 @@ Slack Team: https://openosint.slack.com
 [Snopes](http://www.snopes.com/)<br>
 [Verification Handbook](http://verificationhandbook.com/)<br>
 ### Censorship, Takedowns, Copyright
-[Google Copyright Takedowns](https://www.google.com/transparencyreport/removals/copyright/explore/?)<br>
+[Google Copyright Takedowns](https://www.google.com/transparencyreport/removals/copyright/explore)<br>
 [Lumen Database](https://lumendatabase.org/)<br>
 ### Leaks
 [Crytome](https://cryptome.org/)<br>
