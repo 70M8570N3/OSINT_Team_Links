@@ -16,9 +16,7 @@ Slack Team: https://openosint.slack.com
 [EasyStreet](http://streeteasy.com)<br>
 [Padmapper](https://www.padmapper.com)<br>
 ### Stolen Property
-[Art Loss (Stolen Art)](http://www.artloss.com)<br>
-[iamstolen (UK)](http://www.iamstolen.com/)<br>
-[hotgunz](http://www.hotgunz.com/search.php)<br>
+
 ### Fact Checking
 [Checkdesk](https://meedan.com/en/checkdesk)<br>
 [Citizen Desk](https://www.sourcefabric.org/en/citizendesk)<br>
