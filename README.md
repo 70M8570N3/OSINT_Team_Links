@@ -796,7 +796,6 @@ Slack Team: https://openosint.slack.com
 [Reverse Genie (License Plate Search)](http://www.reversegenie.com/plate.php)<br>
 [Autowini (Vin Search International)](http://www.autowini.com)<br>
 [thatsthem (Vin Search)](http://thatsthem.com/vin-search)<br>
-[All Vehicle Data](http://www.allvehicledata.com/)<br>
 [Check That (Vin Search)](https://www.checkthatvin.com/?action=pcheck)<br>
 [Vin decoderz (Vin Search)](https://www.vindecoderz.com/)<br>
 [National Insurance Crime Bureau(Vin Search)](https://www.nicb.org/theft_and_fraud_awareness/vincheck)<br>
