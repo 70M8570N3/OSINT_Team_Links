@@ -682,10 +682,7 @@ Slack Team: https://openosint.slack.com
 [SimilarSiteSearch](http://www.similarsitesearch.com/)<br>
 [SitesLike](http://www.siteslike.com/)<br>
 ### Visual Search and Clustering Search Engines
-[Binpad](http://www.binpad.com/)<br>
 [Carrot2](http://search.carrot2.org/)<br>
-[EntityCube](http://entitycube.research.microsoft.com/)<br>
-[Cluuz](http://www.cluuz.com/)<br>
 [Yippy](http://yippy.com/)<br>
 ### Specialty Search Engines
 [2lingual Search](http://www.2lingual.com/)<br>
